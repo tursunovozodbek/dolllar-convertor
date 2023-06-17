@@ -1,0 +1,38 @@
+.container {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .input-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #dollarInput {
+    width: 150px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #convertButton {
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #resultContainer {
+    margin-top: 20px;
+  }
+  
